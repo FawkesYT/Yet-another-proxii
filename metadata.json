@@ -1,0 +1,5 @@
+{
+  "name": "Universal API Proxy",
+  "description": "A full-stack application that provides a secure backend proxy for API requests, bypassing CORS and protecting secrets.",
+  "requestFramePermissions": []
+}
